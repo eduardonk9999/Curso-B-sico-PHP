@@ -16,7 +16,7 @@
 
      //concatenação
      echo $nome . " tem " . $idade. " anos "
-
+    
     
     ?>
 
